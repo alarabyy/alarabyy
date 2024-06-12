@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is mohamed alaraby
 #### this is my gir hup
+![this is my gir hup](https://bin.livechapter.com/wp-content/uploads/2019/03/1_gP4MoPw95o3HztOe2rIC4A.png)
+
 •	I am a developer who organizes his time, is quick to communicate with a team, is a quick learner, able to work under constant pressure, and able to work in more than one field
 
 Skills: Asp.net / REACT
@@ -13,5 +15,4 @@ Skills: Asp.net / REACT
 [![trophy](https://github-profile-trophy.vercel.app/?username=alarabyy)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alarabyy)](https://github.com/anuraghazra/github-readme-stats)
-
 
