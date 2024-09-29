@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is mohamed alaraby
 #### this is my gir hup
-![this is my gir hup](https://bin.livechapter.com/wp-content/uploads/2019/03/1_gP4MoPw95o3HztOe2rIC4A.png)
+![this is my git hup](https://bin.livechapter.com/wp-content/uploads/2019/03/1_gP4MoPw95o3HztOe2rIC4A.png)
 
 •  I am a developer who organizes his time, is quick to communicate with a team, is a quick learner, able to work under constant pressure, and able to work in more than one field
 
