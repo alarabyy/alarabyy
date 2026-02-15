@@ -10,11 +10,11 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alarabyhamo3&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=alarabyy&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
   <img width="8" />
-  <img src="https://img.shields.io/github/followers/alarabyhamo3?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/followers/alarabyy?label=Followers&style=for-the-badge&color=blue" alt="followers" />
   <img width="8" />
-  <img src="https://img.shields.io/github/stars/alarabyhamo3?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
+  <img src="https://img.shields.io/github/stars/alarabyy?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
 </p>
 
 ---
@@ -251,21 +251,21 @@ strengths:
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alarabyhamo3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alarabyhamo3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alarabyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alarabyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="160" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=alarabyhamo3&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&order=3" height="200" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=alarabyy&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&order=3" height="200" alt="streak graph" />
 </div>
 
 <br/>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alarabyhamo3&bg_color=1a1b27&color=a960ff&line=628fdb&point=f7f7f7&area=true&area_color=a960ff&hide_border=true" width="95%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alarabyy&bg_color=1a1b27&color=a960ff&line=628fdb&point=f7f7f7&area=true&area_color=a960ff&hide_border=true" width="95%" alt="activity graph" />
 </div>
 
 ---
@@ -283,7 +283,7 @@ strengths:
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alarabyhamo3&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=alarabyy&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" width="95%"/>
 </div>
 
 ---
